@@ -60,7 +60,6 @@ I enjoy turning UI ideas into functional products and continuously improving my 
 - Clean UI with TailwindCSS
 
 🔗 Live: https://task-manager-beryl-psi.vercel.app/
-
 🔗 Code: https://github.com/Saktra007/Task_Manager
 
 ---
@@ -71,7 +70,6 @@ I enjoy turning UI ideas into functional products and continuously improving my 
 - Responsive layout
 
 🔗 Live: https://dessert-smoky.vercel.app/
-
 🔗 Code: https://github.com/Saktra007/Dessert
 
 ---
