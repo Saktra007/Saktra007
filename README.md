@@ -59,7 +59,8 @@ I enjoy turning UI ideas into functional products and continuously improving my 
 - LocalStorage persistence
 - Clean UI with TailwindCSS
 
-🔗 Code: https://github.com/Saktra007
+🔗 Live: https://task-manager-beryl-psi.vercel.app/
+🔗 Code: https://github.com/Saktra007/Task_Manager
 
 ---
 
@@ -68,7 +69,8 @@ I enjoy turning UI ideas into functional products and continuously improving my 
 - Search & filter
 - Responsive layout
 
-🔗 Code: https://github.com/Saktra007
+🔗 Live: https://dessert-smoky.vercel.app/
+🔗 Code: https://github.com/Saktra007/Dessert
 
 ---
 
