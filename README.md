@@ -69,7 +69,7 @@ I enjoy turning UI ideas into functional products and continuously improving my 
 - Search & filter
 - Responsive layout
 
-🔗 Live: [https://admin-dashboard-ui-five.vercel.app/  ](https://dessert-smoky.vercel.app/)
+🔗 Live: [https://admin-dashboard-ui-five.vercel.app/](https://dessert-smoky.vercel.app/)  
 🔗 Code: [https://github.com/Saktra007/Admin_Dashboard_UI](https://github.com/Saktra007/Dessert)
 
 ---
